@@ -1,0 +1,9 @@
+He cambiado el mail de neutrino@xxx.com
+al que te proporciona github en settings --> mail:
+
+orin3@orin3-desktop:~/Desktop/LA/7_ros2_ws/src/eurosatory$ git config user.email
+276646891+Neutrino14@users.noreply.github.com
+orin3@orin3-desktop:~/Desktop/LA/7_ros2_ws/src/eurosatory$ 
+
+
+Quiero ver como se realizan ahora los commits
